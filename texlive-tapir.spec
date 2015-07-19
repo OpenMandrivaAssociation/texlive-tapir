@@ -6,7 +6,7 @@
 # catalog-version 0.2
 Name:		texlive-tapir
 Version:	0.2
-Release:	9
+Release:	10
 Summary:	A simple geometrical font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/tapir
