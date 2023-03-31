@@ -1,6 +1,6 @@
 Name:		texlive-tapir
 Version:	20484
-Release:	1
+Release:	2
 Summary:	A simple geometrical font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/tapir
