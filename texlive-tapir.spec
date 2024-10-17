@@ -3,7 +3,7 @@ Version:	20484
 Release:	2
 Summary:	A simple geometrical font
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/tapir
+URL:		https://www.ctan.org/tex-archive/fonts/tapir
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tapir.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tapir.doc.r%{version}.tar.xz
